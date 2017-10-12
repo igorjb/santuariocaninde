@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 Created by https://www.gitignore.io/api/wordpress
 
 ### WordPress ###
+=======
+>>>>>>> aee6d4ede2132eb427a431bac96a00f9efe84d58
 *.log
 wp-config.php
 wp-content/advanced-cache.php
@@ -19,5 +22,8 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+<<<<<<< HEAD
 
 # End of https://www.gitignore.io/api/wordpress
+=======
+>>>>>>> aee6d4ede2132eb427a431bac96a00f9efe84d58
