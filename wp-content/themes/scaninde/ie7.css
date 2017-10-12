@@ -1,0 +1,8 @@
+.menu-header ul.menu li ul { margin-left:-127px; }
+.menu-header ul.menu #menu-item-95:hover ul { display:block; margin-left:-118px }
+.menu-header ul.menu #menu-item-257:hover ul { display:block; margin-left:-96px }
+.menu-header ul.menu #menu-item-158:hover ul { display:block; margin-left:-124px }
+.menu-header ul.menu #menu-item-96:hover ul { display:block; margin-left:-102px }
+.menu-header ul.menu #menu-item-219:hover ul { display:block; margin-left:-142px }
+.menu-header ul.menu #menu-item-250:hover ul { display:block; margin-left:-226px }
+#content .compartilhe .subir a { background:url(images/content-top.png) no-repeat 5px 24px; cursor:pointer}

@@ -1,0 +1,8 @@
+SetEnvIfNoCase Referer http://www\.santuariodecaninde\.com/wp/wp-admin/ wpsf_access
+SetEnvIf Remote_Addr ^201.9.18.215$ wpsf_access
+
+<Files temp-comments-log.txt>
+order deny,allow
+deny from all
+allow from env=wpsf_access
+</Files>

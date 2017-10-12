@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Website\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Alexandre <alexandre@cactal.com>\n"
+"Language-Team: Alexandre M. Cajaty <alexandre@cactal.com>\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ...\n"
+
+#. Text in echo
+#: big-v1/comments.php:66
+#: big-v1/comments.php:70
+msgid "(necessário)"
+msgstr "(obligatorio)"
+
+#. Text in function
+#: big-v1/comments.php:12
+msgid "1 Comentário"
+msgstr "1 Comentario"
+
+#. Text in function
+#: big-v1/search.php:30
+#: big-v1/category.php:38
+msgid "1 comentário"
+msgstr "1 comentario"
+
+#. Text in echo
+#: big-v1/page.php:73
+msgid "<a href=\"/contato/\" title=\"Solicite mais informações - Envie sua mensagem\">Solicite mais informações</a>"
+msgstr "<a href=\"/es/contacto/\" title=\"Solicitar más información - Envíe su mensaje\">Solicitar más información</a>"
+
+#. Text in echo
+#: big-v1/single.php:73
+#: big-v1/index.php:73
+msgid "Artigos Relacionados"
+msgstr "Artículos relacionados"
+
+#. Text in echo
+#: big-v1/front-page.php:8
+msgid "Bem vindo!"
+msgstr "Bienvenido!"
+
+#. Text in echo
+#: big-v1/searchform.php:11
+msgid "Busca"
+msgstr "Búsqueda"
+
+#. Text in echo
+#: big-v1/searchform.php:12
+msgid "Buscar"
+msgstr "Búsqueda"
+
+#. Text in function
+#: big-v1/search.php:30
+#: big-v1/category.php:38
+msgid "Comentar"
+msgstr "Comentar"
+
+#. Text in function
+#: big-v1/comments.php:12
+msgid "Comentários"
+msgstr "Comentarios"
+
+#. Text in echo
+#: big-v1/comments.php:39
+msgid "Comentários estão fechados."
+msgstr "Los comentarios están cerrados."
+
+#. Text in echo
+#: big-v1/front-page.php:3
+msgid "Consultoria em investimentos, linhas de créditos e seguros"
+msgstr "Consultoría de negocios, líneas de crédito y de seguros"
+
+#. Text in function
+#: big-v1/comments.php:49
+msgid "Deixe seu Comentário"
+msgstr "Deja tu Comentario"
+
+#. Text in echo
+#: big-v1/comments.php:14
+msgid "Deixe um comentário"
+msgstr "Deja un comentario"
+
+#. Text in function
+#: big-v1/comments.php:49
+msgid "Deixe uma resposta para %s"
+msgstr "Deja una respuesta a %s"
+
+#. Text in echo
+#: big-v1/comments.php:70
+msgid "E-mail (não será publicado)"
+msgstr "E-mail (no será publicado)"
+
+#. Text in echo
+#: big-v1/comments.php:84
+msgid "Enviar"
+msgstr "Enviar"
+
+#. Text in echo
+#: big-v1/404.php:8
+msgid "Erro 404 - Página não encontrada"
+msgstr "Error 404 - Página no encontrada"
+
+#. Text in echo
+#: big-v1/comments.php:6
+msgid "Esta página é protegida por senha. Digite a senha para visualizar os comentários."
+msgstr "Esta página está protegido por contraseña. Introduzca la contraseña para ver los comentarios."
+
+#. Text in echo
+#: big-v1/page.php:75
+#: big-v1/single.php:39
+#: big-v1/index.php:39
+msgid "Imprimir"
+msgstr "Imprimir"
+
+#. Text in echo
+#: big-v1/comments.php:55
+msgid "Logado como"
+msgstr "Logado como"
+
+#. Text in echo
+#: big-v1/page.php:75
+#: big-v1/single.php:39
+#: big-v1/index.php:39
+msgid "Na impressão somente texto e imagens do artigo serão impressos"
+msgstr "En imprimir sólo el texto y las imágenes se imprimirán artículo"
+
+#. Text in echo
+#: big-v1/search.php:44
+msgid "Nenhum resultado encontrado na pesquisa por"
+msgstr "No hay resultados en la búsqueda de"
+
+#. Text in echo
+#: big-v1/single.php:92
+#: big-v1/index.php:92
+msgid "Nenhuma artigo encontrado."
+msgstr "Ningún artículo encontrado."
+
+#. Text in echo
+#: big-v1/page.php:106
+msgid "Nenhuma página encontrada."
+msgstr "No encuentra la página."
+
+#. Text in echo
+#: big-v1/comments.php:66
+msgid "Nome"
+msgstr "Nombre"
+
+#. Text in echo
+#: big-v1/front-page.php:80
+msgid "Opções de Investimentos"
+msgstr "Opciones de Negocio"
+
+#. Text in echo
+#: big-v1/search.php:45
+msgid "Por gentileza, efetue uma nova pesquisa utilizando outro termo."
+msgstr "Por favor realice una nueva búsqueda utilizando otras palabras."
+
+#. Text in echo
+#: big-v1/single.php:30
+#: big-v1/index.php:30
+msgid "Publicado em"
+msgstr "Publicado em"
+
+#. Text in echo
+#: big-v1/header.php:108
+msgid "Pular para o conteúdo"
+msgstr "Ir al contenido"
+
+#. Text in echo
+#: big-v1/search.php:7
+msgid "Resultado da Pesquisa"
+msgstr "Resultados de la Búsqueda"
+
+#. Text in echo
+#: big-v1/comments.php:62
+msgid "Sair desta conta"
+msgstr "Efetuar cierre de sesión"
+
+#. Text in function
+#: big-v1/comments.php:12
+msgid "Seja o primeiro a comentar"
+msgstr "¡Sé el primero en comentar"
+
+#. Text in echo
+#: big-v1/404.php:17
+msgid "Verifique se o endereço foi digitado corretamente ou utilize o campo de pesquisa no topo da página."
+msgstr "Asegúrese de que la dirección está escrita correctamente o utilizar el cuadro de búsqueda en la parte superior de la página."
+
+#. Text in echo
+#: big-v1/page.php:90
+msgid "Visite também"
+msgstr "Véase también"
+
+#. Text in echo
+#: big-v1/comments.php:55
+msgid "Você deve ser"
+msgstr "Usted debe ser"
+
+#. Text in function
+#: big-v1/search.php:30
+#: big-v1/category.php:38
+msgid "comentários"
+msgstr "comentarios"
+
+#. Text in echo
+#: big-v1/comments.php:55
+msgid "para postar um comentário"
+msgstr "en publicar un comentario"
+
+#. Text in echo
+#: big-v1/single.php:30
+#: big-v1/index.php:30
+msgid "por"
+msgstr "por"
+
